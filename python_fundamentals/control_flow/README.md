@@ -16,4 +16,8 @@ Solo puedes usar print una vez en tu código
 
 - `print_hexa.py` Imprime números del 0 al 98 en decimal y hexadecimal.
 
+- `print_comb2.py` Imprime números del 0 al 99 formateados como números de dos dígitos, separados por coma y espacio.
+
+El último número no debe ir seguido de coma.
+
 
