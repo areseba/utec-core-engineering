@@ -14,4 +14,6 @@ La salida debe ser continua (sin espacios, sin nuevas líneas excepto al final).
 
 Solo puedes usar print una vez en tu código
 
+- `print_hexa.py` Imprime números del 0 al 98 en decimal y hexadecimal.
+
 
