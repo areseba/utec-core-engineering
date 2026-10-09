@@ -20,4 +20,6 @@ Solo puedes usar print una vez en tu código
 
 El último número no debe ir seguido de coma.
 
+- `print_comb3.py` Imprime todas las combinaciones únicas de dos dígitos diferentes del 0 al 9.
+
 
