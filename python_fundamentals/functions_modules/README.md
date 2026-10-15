@@ -41,3 +41,12 @@ Al ejecutar python3 simple_add.py, se imprima el resultado.
 Al ejecutar python3 test_import.py, no se imprima nada.
 
 - `add.py` Escribe un programa que importe la función add() del archivo add_0.py e imprima el resultado de la suma 1 + 2 = 3
+
+- `calculation.py` Escribe un programa que importe funciones desde calculator_1.py e imprima el resultado de:
+suma
+resta
+multiplicación
+división
+Usando:
+a = 10
+b = 5
