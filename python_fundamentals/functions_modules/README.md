@@ -15,4 +15,11 @@ La función debe:
 Imprimir el último dígito de number.
 Devolver el valor del último dígito.
 
+- `pow.py` Escribe una función:
+def pow(a, b):
+La función debe devolver el valor de a elevado a la potencia de b.
+Restricciones:
+No está permitido usar el operador de exponente integrado **.
+No está permitido importar módulos.
+Debes implementar la lógica manualmente usando un bucle.
 
