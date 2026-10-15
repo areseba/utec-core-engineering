@@ -50,3 +50,8 @@ división
 Usando:
 a = 10
 b = 5
+
+- `variable_load.py` Escribe un programa que importe la variable a desde variable_load_5.py e imprima su valor.
+Restricciones:
+No se permite usar * para importar.
+El programa no debe ejecutarse cuando se importe.
