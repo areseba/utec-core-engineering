@@ -14,3 +14,13 @@ Prototipo: def element_at(my_list, idx):
 Si idx es negativo o está fuera de rango, devuelve None.
 En caso contrario, devuelve el elemento en la posición idx.
 
+- `replace_in_list.py` Escribe una función que reemplace un elemento de una lista en una posición específica.
+Prototipo: def replace_in_list(my_list, idx, element):
+Si idx es negativo o está fuera de rango, devuelve la lista original sin cambios.
+En caso contrario, reemplaza el elemento en la posición idx por element y devuelve la lista.
+
+- `print_matrix_integer.py` Escribe una función que imprima una matriz de enteros.
+Prototipo: def print_matrix_integer(matrix=[[]]):
+matrix es una lista de listas (lista 2D).
+Formatea cada fila en su propia línea.
+Los valores de una fila deben estar separados por un solo espacio.
