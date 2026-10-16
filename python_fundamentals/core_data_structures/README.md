@@ -24,3 +24,9 @@ Prototipo: def print_matrix_integer(matrix=[[]]):
 matrix es una lista de listas (lista 2D).
 Formatea cada fila en su propia línea.
 Los valores de una fila deben estar separados por un solo espacio.
+
+- `add_tuple.py` Escribe una función que sume dos tuplas.
+Prototipo: def add_tuple(tuple_a=(), tuple_b=()):
+Devuelve una nueva tupla con exactamente dos enteros.
+Trata los valores faltantes como 0.
+Ignora los valores más allá de los dos primeros.
