@@ -34,3 +34,9 @@ Ignora los valores más allá de los dos primeros.
 - `common_elements.py` Escribe una función que devuelva un conjunto de elementos comunes en dos conjuntos.
 Prototipo: def common_elements(set_1, set_2):
 Devuelve un nuevo conjunto que contenga solo los elementos presentes en set_1 y set_2.
+
+- `update_dictionary.py` Escribe una función que reemplace o agregue un par clave/valor en un diccionario.
+Prototipo: def update_dictionary(a_dictionary, key, value):
+Si key ya existe, reemplaza su valor.
+Si key no existe, créala.
+Devuelve el diccionario (actualizado).
