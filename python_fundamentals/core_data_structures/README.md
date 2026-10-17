@@ -40,3 +40,9 @@ Prototipo: def update_dictionary(a_dictionary, key, value):
 Si key ya existe, reemplaza su valor.
 Si key no existe, créala.
 Devuelve el diccionario (actualizado).
+
+- `best_score.py` Escribe una función que devuelva la clave con el valor entero más grande.
+Prototipo: def best_score(a_dictionary):
+Puedes asumir que todos los valores son enteros.
+Si a_dictionary es None o está vacío, devuelve None.
+Puedes asumir que todos los valores son diferentes.
