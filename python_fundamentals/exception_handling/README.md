@@ -13,3 +13,5 @@ Contiene script de Python - Manejo de excepciones
 - `safe_print_division.py` Escribe una función que divida dos enteros.
 
 - `raise_exception.py` Escribe una función que lance un TypeError.
+
+- `raise_exception_msg.py` Escribe una función que lance un NameError con un mensaje personalizado.
