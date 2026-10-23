@@ -8,3 +8,5 @@ Contiene script de Python - Manejo de excepciones
 
 - `safe_print_integer.py` Escribe una función que imprima un entero con "{:d}".format() seguido de una nueva línea.
 
+- `safe_print_list_integers.py` Escribe una función que imprima los primeros x elementos de una lista.
+
