@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Defino la clase Square con el atributo size privado."""
 
+
 class Square:
     """Represento a square."""
 
