@@ -1,7 +1,3 @@
-# classes_and_object_model
-
-Contiene script de clases y objetos y modelos
-
 ## script
 
 - `0-square.py` Define una clase llamada Square que represente un cuadrado.
@@ -21,3 +17,6 @@ debe ser mayor o igual que 0. De lo contrario, lanza una excepción ValueError c
 - `4-square.py` Añade getters y setters para el atributo size.
 
 El setter debe validar la entrada usando las mismas reglas que antes.
+
+- `5-square.py` Agregua un método de instancia público def my_print(self) que imprima en stdout el cuadrado con el carácter #
+Si size es igual a 0, imprime una línea vacía.
