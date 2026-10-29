@@ -31,4 +31,3 @@ class Square:
         """Imprimo el cuadrado usando el carácter #."""
         for i in range(self.__size):
             print("#" * self.__size)
-
