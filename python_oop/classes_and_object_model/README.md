@@ -20,3 +20,15 @@ El setter debe validar la entrada usando las mismas reglas que antes.
 
 - `5-square.py` Agregua un método de instancia público def my_print(self) que imprima en stdout el cuadrado con el carácter #
 Si size es igual a 0, imprime una línea vacía.
+
+- `6-square.py` Agrega e implementa el método especial:
+__str__()
+Atributo de instancia privado: position:
+propiedad def position(self): para recuperarlo
+setter de propiedad def position(self, value): para establecerlo:
+position debe ser una tupla de 2 enteros positivos, de lo contrario lanza una excepción TypeError con el mensaje position must be a tuple of 2 positive integer
+Instanciación con size opcional y position opcional: def __init__(self, size=0, position=(0, 0)):
+Método público de instancia: def my_print(self): que imprime en stdout el cuadrado con el carácter #:
+si size es igual a 0, imprime una línea vacía
+position debe usarse mediante espacios
+Imprimir una instancia de Square debe tener el mismo comportamiento que my_print()
