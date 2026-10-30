@@ -32,3 +32,16 @@ Método público de instancia: def my_print(self): que imprime en stdout el cuad
 si size es igual a 0, imprime una línea vacía
 position debe usarse mediante espacios
 Imprimir una instancia de Square debe tener el mismo comportamiento que my_print()
+
+- `1-rectangle.py` Define una clase Rectangle con:
+Atributo de instancia privado width:
+propiedad width(self) para recuperarlo
+setter de propiedad width(self, value) para asignarlo.
+width debe ser un entero; de lo contrario, lanza una excepción TypeError con el mensaje width must be an integer
+si width es menor que 0, lanza una excepción ValueError con el mensaje width must be >= 0
+Atributo de instancia privado height:
+propiedad height(self) para recuperarlo
+setter de propiedad height(self, value) para asignarlo
+height debe ser un entero; de lo contrario, lanza una excepción TypeError con el mensaje height must be an integer
+si height es menor que 0, lanza una excepción ValueError con el mensaje height must be >= 0
+Instanciación con width y height opcionales y valor por defecto de 0. (__init__(self, width=0, height=0))
