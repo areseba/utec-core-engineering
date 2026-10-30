@@ -45,3 +45,8 @@ setter de propiedad height(self, value) para asignarlo
 height debe ser un entero; de lo contrario, lanza una excepción TypeError con el mensaje height must be an integer
 si height es menor que 0, lanza una excepción ValueError con el mensaje height must be >= 0
 Instanciación con width y height opcionales y valor por defecto de 0. (__init__(self, width=0, height=0))
+
+- `2-rectangle.py` Agrega los siguientes métodos de instancia a la clase Rectangle:
+area() que devuelve el área del rectángulo
+perimeter() que devuelve el perímetro del rectángulo:
+si width o height es igual a 0, el perímetro es igual a 0
