@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Defino la clase base para figuras geométricas."""
+
 
 class BaseGeometry:
     """Represento la geometría básica."""
